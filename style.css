@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#note1, #note2
+{
+    font-size: 15px;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#btn_start
+{
+    border-radius: 8px;
+    width: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.copy_right_footer
+{
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    bottom: 0%;
+    position: fixed;
+    line-height: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+canvas
+{
+    border: 5px solid white;
+    box-shadow: 1px 1px 40px darkblue;
+    border-radius: 20px;
+    background: darkcyan;
+    margin-top: 125px;
+}
+#song
+{
+    color: black;
+}
